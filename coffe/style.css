@@ -1,0 +1,132 @@
+body {
+    background: rgb(182, 174, 167);
+    position: relative;
+
+}
+
+.modal-wrapper {
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    background-color: beige;
+    background: rgba(64, 63, 61, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-inner {
+    width: 800px;
+    height: 504px;
+    border-radius: 40px;
+    background: rgb(225, 212, 201);
+    display: flex;
+
+}
+
+.card {
+    box-sizing: border-box;
+    border: 1px solid rgb(193, 182, 173);
+    border-radius: 40px;
+    width: 310px;
+    height: 506px;
+}
+
+
+.menu {
+    display: flex;
+    text-align: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.meny {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0;
+
+}
+
+h3 {
+    text-align: center;
+    border-radius: 100px;
+    background: rgb(102, 95, 85);
+    width: 60px;
+}
+
+.hide {
+    display: none;
+}
+
+.modalOpen {
+    overflow: hidden;
+}
+
+.massa {}
+
+.masa {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.vybor {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.total {
+    text-align: left;
+    display: flex;
+    justify-content: left;
+    font-weight:
+}
+
+.price {
+    text-align: right;
+}
+
+.opisanie {
+    text-align: center;
+}
+
+.photo {
+    width: 340px;
+    height: 340px;
+}
+
+.opis {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.knopka {
+    display: block;
+    margin: 0 auto;
+}
+
+.xz {
+    text-align: center;
+    margin-right: 220px;
+}
+
+h4 {
+    text-align: center;
+    margin-right: 350px;
+}
+
+.size {
+    margin-top: 70px;
+}
